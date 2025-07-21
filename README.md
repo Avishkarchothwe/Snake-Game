@@ -1,5 +1,5 @@
 # Snake-Game
-A modern, full-screen neon Snake Game built with HTML5 Canvas, JavaScript, and CSS. Play directly in your browser with smooth animations, vibrant colors, and responsive design.
+A modern, full-screen classic Snake Game built with HTML5 Canvas, JavaScript, and CSS. Play directly in your browser with smooth animations, vibrant colors, and responsive design.
 # 🐍 Snake Game
 
 A **classic Snake Game** built using **HTML5 Canvas, JavaScript, and CSS**. Eat food, grow longer, and try to achieve the highest score without colliding with yourself!
