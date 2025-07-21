@@ -25,4 +25,4 @@ A **classic Snake Game** built using **HTML5 Canvas, JavaScript, and CSS**. Eat 
 ## **📦 How to Run Locally**
 1. **Download or clone this repository:**
    ```bash
-   git clone https://github.com/<your-username>/snake-game.git
+   git clone https://github.com/Avishkarchothwe/Snake-Game
